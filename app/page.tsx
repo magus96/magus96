@@ -4,6 +4,7 @@ import type { NextPage } from "next";
 import Head from "next/head";
 import About from "@/components/About";
 import Experience from "@/components/Experience";
+import Skills from "@/components/Skills";
 
 const Home:NextPage = () =>{
   return(
@@ -31,6 +32,9 @@ const Home:NextPage = () =>{
     </section>
 
     {/* Skills*/}
+    <section id = "skills" className="snap-center">
+      <Skills />
+    </section>
     
     {/* Projects */}
     
