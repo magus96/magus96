@@ -36,7 +36,7 @@ export default function About({}: Props){
                     Here is a <span className="underline decoration-[#F7AB0A]/50">little</span> Background:
                 </h4>
                 <p className="text-base">
-                    I&aposm Anirudh, a music buff and a programmer. I&aposve been<br></br> programming for over 8 years now, primarily in Python<br></br>,C and Typescript.
+                    I&apos;m Anirudh, a music buff and a programmer. I&apos;ve been<br></br> programming for over 8 years now, primarily in Python<br></br>,C and Typescript.
                     Professionally, I have 2 years<br></br> of experience in the AI/ML and FullStack
                     domains<br></br> using Python. I am passionate about learning<br></br> whatever catches my intrigue and 
                     building something<br></br> cool with it. I am also proficient
