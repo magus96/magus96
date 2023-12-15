@@ -45,7 +45,7 @@ function ExperienceCard({}: Props) {
             <p className="uppercase py-5 text-gray-300 ">From February 2022 to August 2023</p>
             <ul className="list-disc space-y-4 ml-5 text-lg">
                 <li>Explainable AI for Image Models</li>
-                <li>Predictive Modeling for countries' internet spend</li>
+                <li>Predictive Modeling for countries&apos; internet spend</li>
                 <li>Developed a Full Stack Application for a hiring agency</li>
                 <li>Maintained DevOps for the application on GCP</li>
                 <li>Cloud Consulting for GCP</li>
