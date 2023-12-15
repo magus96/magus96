@@ -29,10 +29,10 @@ function Project({}: Props) {
         <Image src = {gof_img} alt = "game of life" className="w-80 h-98"></Image>
         <div className="space-y-10 px-0 md:px-10 max-w-6xl">
             <h4 className="text-4xl font-semibold text-center">
-                Project 2 of 4. <Link href="https://github.com/magus96/game-of-life" className="underline decoration-blue-700 hover:text-blue-700">Conway's Game of Life</Link>
+                Project 2 of 4. <Link href="https://github.com/magus96/game-of-life" className="underline decoration-blue-700 hover:text-blue-700">Conway&apos;s Game of Life</Link>
             </h4>
             <p>
-                Python program to simulate the famous Conway's Game of Life <br></br>
+                Python program to simulate the famous Conway&apos;s Game of Life <br></br>
                 using PyGame library. Involved significant learning curve of<br></br>
                 understanding computer graphics, plotting mathematical concepts<br></br>
                 onto the screen and basic game design and UI/UX.
