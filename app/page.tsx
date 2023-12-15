@@ -42,7 +42,6 @@ const Home:NextPage = () =>{
       <Projects />
     </section>
     
-    {/* Contact Me */}
     </div>
   )
 }
